@@ -31,7 +31,7 @@ The goal was to **evaluate event quality**, **understand student satisfaction tr
 
 ## 📁 Dataset
 
-* **Source:** College event feedback survey
+* **Source:** [Student Feedback Survey Responses – Kaggle](https://www.kaggle.com/datasets/ruchi798/student-feedback-survey-responses)
 * **Format:** CSV
 * **Content:** Student ratings for multiple aspects of the event, along with optional textual feedback
 
@@ -80,5 +80,4 @@ The goal was to **evaluate event quality**, **understand student satisfaction tr
 * **Heatmaps:** Correlation between different rating aspects
 * **WordClouds:** Frequent themes in textual feedback
 * **Sentiment Distribution:** Proportion of positive, neutral, and negative feedback
-
 
